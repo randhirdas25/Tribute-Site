@@ -1,0 +1,28 @@
+*
+{
+    margin: 4px;
+    padding: 2px;
+
+}
+header
+{
+    text-align: center;
+}
+.photo
+{
+    text-align: center;
+}
+.quotes
+{
+    margin-left: 5%;
+}
+footer span
+{
+    font-size: 40px;
+}
+footer
+{
+    text-align: right;
+    color: blue;
+
+}
